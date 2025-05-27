@@ -1,0 +1,7 @@
+﻿services:
+  ardupilot:
+    image: morfuzz/ardupilot
+    container_name: ardupilot
+    tty: true
+    environment:
+      SITL_UDP_OUTPUT_ADDRESS: "udp:host.docker.internal:14550 --out=udp:host.docker.internal:14551"
