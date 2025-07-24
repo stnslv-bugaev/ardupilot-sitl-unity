@@ -72,7 +72,7 @@ Planned:
 
 ## 📜 License
 
-MIT (or your preferred license)
+MIT
 ## 🤝 Contributing
 
 PRs are welcome! Feel free to open issues or suggestions.
